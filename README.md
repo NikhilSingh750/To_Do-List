@@ -22,4 +22,4 @@ This is a simple To-Do List application built with HTML, CSS, and JavaScript tha
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/NikhilSingh750/To_Do-List.git
